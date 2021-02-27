@@ -762,7 +762,7 @@ footer .container {
 @media (max-width: 767px){
   .home {
     width: 100%;
-    height: 120vh;
+    height: 130vh;
   }
 
   .content {
@@ -775,7 +775,7 @@ footer .container {
   }
 
   #about {
-    height: 190vh;
+    height: 210vh;
     width: 100%;
   }
 
@@ -800,12 +800,12 @@ footer .container {
 
   #service {
     width: 100%;
-    height: 310vh;
+    height: 350vh;
   }
 
   #resume {
     width: 100%;
-    height: 170vh;
+    height: 300vh;
   }
 
   .grid {
@@ -819,7 +819,7 @@ footer .container {
 
   #portfolio {
     width: 100%;
-    height: 340vh;
+    height: 380vh;
   }
 
   .bu button {
@@ -853,7 +853,7 @@ footer .container {
 
   #contact {
     width: 100%;
-    height: 150vh;
+    height: 180vh;
   }
 
   textarea {
